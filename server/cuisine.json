@@ -1,0 +1,163 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "description": "Classic Italian pasta dish with meat sauce.",
+      "price": 12000,
+      "imgUrl": "https://example.com/spaghetti_bolognese.jpg",
+      "categoryId": 6,
+      "authorId": 1
+    },
+    {
+      "name": "Chicken Alfredo",
+      "description": "Creamy pasta dish with grilled chicken.",
+      "price": 15000,
+      "imgUrl": "https://example.com/chicken_alfredo.jpg",
+      "categoryId": 6,
+      "authorId": 2
+    },
+    {
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, croutons, and parmesan cheese with Caesar dressing.",
+      "price": 8000,
+      "imgUrl": "https://example.com/caesar_salad.jpg",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Tomato Basil Soup",
+      "description": "Rich and flavorful tomato soup with fresh basil.",
+      "price": 6000,
+      "imgUrl": "https://example.com/tomato_basil_soup.jpg",
+      "categoryId": 5,
+      "authorId": 2
+    },
+    {
+      "name": "Grilled Salmon",
+      "description": "Fresh salmon fillet seasoned and grilled to perfection.",
+      "price": 18000,
+      "imgUrl": "https://example.com/grilled_salmon.jpg",
+      "categoryId": 7,
+      "authorId": 1
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "description": "Assorted vegetables stir-fried in a flavorful sauce.",
+      "price": 10000,
+      "imgUrl": "https://example.com/vegetable_stir_fry.jpg",
+      "categoryId": 8,
+      "authorId": 2
+    },
+    {
+      "name": "Vegan Tofu Curry",
+      "description": "Creamy coconut milk-based curry with tofu and vegetables.",
+      "price": 14000,
+      "imgUrl": "https://example.com/vegan_tofu_curry.jpg",
+      "categoryId": 9,
+      "authorId": 1
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "description": "Warm chocolate cake with a gooey molten center.",
+      "price": 8000,
+      "imgUrl": "https://example.com/chocolate_lava_cake.jpg",
+      "categoryId": 3,
+      "authorId": 2
+    },
+    {
+      "name": "Mango Smoothie",
+      "description": "Refreshing smoothie made with ripe mangoes.",
+      "price": 6000,
+      "imgUrl": "https://example.com/mango_smoothie.jpg",
+      "categoryId": 10,
+      "authorId": 1
+    },
+    {
+      "name": "Beef Stir Fry",
+      "description": "Tender beef strips stir-fried with vegetables in a savory sauce.",
+      "price": 120000,
+      "imgUrl": "https://example.com/beef_stir_fry.jpg",
+      "categoryId": 8,
+      "authorId": 2
+    },
+    {
+      "name": "Caprese Salad",
+      "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze.",
+      "price": 9000,
+      "imgUrl": "https://example.com/caprese_salad.jpg",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "name": "Lemon Garlic Shrimp",
+      "description": "Juicy shrimp cooked in a zesty lemon garlic butter sauce.",
+      "price": 160000,
+      "imgUrl": "https://example.com/lemon_garlic_shrimp.jpg",
+      "categoryId": 7,
+      "authorId": 2
+    },
+    {
+      "name": "Penne alla Vodka",
+      "description": "Penne pasta in a creamy tomato vodka sauce.",
+      "price": 130000,
+      "imgUrl": "https://example.com/penne_alla_vodka.jpg",
+      "categoryId": 6,
+      "authorId": 1
+    },
+    {
+      "name": "Ratatouille",
+      "description": "A medley of sautéed vegetables in a tomato herb sauce.",
+      "price": 110000,
+      "imgUrl": "https://example.com/ratatouille.jpg",
+      "categoryId": 8,
+      "authorId": 2
+    },
+    {
+      "name": "Eggplant Parmesan",
+      "description": "Breaded and baked eggplant with marinara sauce and cheese.",
+      "price": 10000,
+      "imgUrl": "https://example.com/eggplant_parmesan.jpg",
+      "categoryId": 6,
+      "authorId": 1
+    },
+    {
+      "name": "Quinoa Salad",
+      "description": "Healthy salad with quinoa, vegetables, and a lemon vinaigrette.",
+      "price": 9000,
+      "imgUrl": "https://example.com/quinoa_salad.jpg",
+      "categoryId": 4,
+      "authorId": 2
+    },
+    {
+      "name": "Tiramisu",
+      "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+      "price": 8000,
+      "imgUrl": "https://example.com/tiramisu.jpg",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "name": "Sushi Rolls",
+      "description": "Assorted sushi rolls with fresh fish and vegetables.",
+      "price": 14000,
+      "imgUrl": "https://example.com/sushi_rolls.jpg",
+      "categoryId": 7,
+      "authorId": 2
+    },
+    {
+      "name": "Lentil Soup",
+      "description": "Hearty soup made with lentils, vegetables, and spices.",
+      "price": 7000,
+      "imgUrl": "https://example.com/lentil_soup.jpg",
+      "categoryId": 5,
+      "authorId": 1
+    },
+    {
+      "name": "Mushroom Risotto",
+      "description": "Creamy Italian rice dish cooked with mushrooms and parmesan cheese.",
+      "price": 12000,
+      "imgUrl": "https://example.com/mushroom_risotto.jpg",
+      "categoryId": 6,
+      "authorId": 2
+    }
+  ]
+  

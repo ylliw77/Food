@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+      "name": "Appetizers"
+    },
+    {
+        "id" : 2,
+      "name": "Main Dishes"
+    },
+    {
+        "id" : 3,
+      "name": "Desserts"
+    },
+    {
+        "id" : 4,
+      "name": "Salads"
+    },
+    {
+        "id" : 5,
+      "name": "Soups"
+    },
+    {
+        "id" : 6,
+      "name": "Pasta"
+    },
+    {
+        "id" : 7,
+      "name": "Seafood"
+    },
+    {
+        "id" : 8,
+      "name": "Vegetarian"
+    },
+    {
+        "id" : 9,
+      "name": "Vegan"
+    },
+    {
+        "id" : 10,
+      "name": "Beverages"
+    }
+  ]
+  
